@@ -1,0 +1,13 @@
+{
+  "name": "clip-bench",
+  "version": "1.0.0",
+  "description": "Turn a public YouTube video into a downloadable 9:16 clip.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
